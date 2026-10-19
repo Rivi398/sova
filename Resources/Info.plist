@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key><string>ru.studiasok.sova</string>
+	<key>CFBundleName</key><string>Sova</string>
+	<key>CFBundleDisplayName</key><string>Sova</string>
+	<key>CFBundleExecutable</key><string>Sova</string>
+	<key>CFBundleIconFile</key><string>AppIcon</string>
+	<key>CFBundlePackageType</key><string>APPL</string>
+	<key>CFBundleShortVersionString</key><string>__VERSION__</string>
+	<key>CFBundleVersion</key><string>__VERSION__</string>
+	<key>LSMinimumSystemVersion</key><string>13.0</string>
+	<key>LSUIElement</key><true/>
+	<key>NSHumanReadableCopyright</key><string>© 2026 Sergey Cheberko. MIT License.</string>
+	<key>NSAppleEventsUsageDescription</key><string>Sova asks for your password once to allow two pmset commands.</string>
+</dict>
+</plist>

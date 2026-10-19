@@ -1,0 +1,6 @@
+.build/
+dist/
+.DS_Store
+# local notes and launch drafts, not part of the public repo
+CLAUDE.md
+launch/
